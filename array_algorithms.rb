@@ -10,6 +10,3 @@ def every_other(array)
   end
   new_array
 end
-
-p every_other([1,2,3,4,5])
-p every_other([1,2,1,2,1,2,1])
